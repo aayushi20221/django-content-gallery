@@ -1,4 +1,4 @@
-django-content-gallery
+django-content-gallery: A Project based on django
 ======================
 
 .. image:: https://travis-ci.org/Kemaweyan/django-content-gallery.svg?branch=master
